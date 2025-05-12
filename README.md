@@ -2,7 +2,7 @@
 
 
 <h1 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FA8ED0&center=true&width=435&lines=Hey!+It's+Misbah+Noor;Frontend+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=FA8ED0&center=true&width=650&lines=Hey!+It's+Misbah+Noor;Frontend+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
@@ -40,5 +40,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misbah-noor&theme=radical" alt="misbah-noor" /></a> </p>
 
 <h1 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FA8ED0&center=true&width=435&lines=++Thanks+for+visiting+my+profile!%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;+Hope!+you+like+it" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FA8ED0&center=true&width=655&lines=++Thanks+for+visiting+my+profile!%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;+Hope!+you+like+it" alt="Typing SVG" /></a>
 </h1>
