@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React**
 
 - 📫 How to reach me **misbahnoor301@gmail.com**
 
